@@ -1,0 +1,73 @@
+body {
+    background: skyblue;
+    font-family: "Ranchers" 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+button {
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+}
+    
+input {
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+}
+
+
+main {
+    background: red;
+    border-radius: 20px;
+    width: 375px;
+    text-align: center;
+}
+
+.top {
+    height: 120px;
+    color: white;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    height: 115px;
+    font-family: cursive;
+    font-size: 3rem;
+}
+
+.bottom {
+    height: 30px;
+}
+
+.hello {
+    font-size: 4.5rem;
+    line-height: 1;
+}
+
+.my-name-is {
+    font-size: 2rem;
+}
+
+#color-change1 {
+    font-size: 20px;
+    color: blue;
+    
+}
+
+#color-change2 {
+    font-size: 20px;
+    color: darkgreen;
+}
+
+#color-change3 {
+    font-size: 20px;
+    color: purple;
+}
